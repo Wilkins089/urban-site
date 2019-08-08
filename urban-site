@@ -1,6 +1,6 @@
 server {
         listen 80;
         server_name test.urban.com;
-        root /var/www/urban-site;
+        root /var/www/;
         index index.html;
 }
