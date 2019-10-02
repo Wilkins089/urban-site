@@ -1,0 +1,5 @@
+services:
+        web:
+                domain: ${DOMAIN}
+                image: nginx
+                port: 80
